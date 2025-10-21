@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_ula_vhdl3_behav/xsimk.exe -simmode gui -wdb tb_ula_vhdl3_behav.wdb -simrunnum 0 -socket 52368
+Design successfully loaded
+Design Loading Memory Usage: 6440 KB (Peak: 6440 KB)
+Design Loading CPU Usage: 0 ms

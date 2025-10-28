@@ -2,8 +2,8 @@
 # Webtalk v2018.3 (64-bit)
 # SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 # IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Mon Oct 20 21:14:06 2025
-# Process ID: 20244
+# Start of session at: Mon Oct 20 21:51:14 2025
+# Process ID: 1160
 # Current directory: C:/Users/Caio Lacerda/Desktop/exp_vivado/ula/ula.sim/sim_1/behav/xsim
 # Command line: wbtcv.exe -mode batch -source C:/Users/Caio Lacerda/Desktop/exp_vivado/ula/ula.sim/sim_1/behav/xsim/xsim.dir/tb_ula_vhdl3_behav/webtalk/xsim_webtalk.tcl -notrace
 # Log file: C:/Users/Caio Lacerda/Desktop/exp_vivado/ula/ula.sim/sim_1/behav/xsim/webtalk.log
@@ -14,4 +14,4 @@ invalid command name "[42F4:428C][2025-02-26T20:53:44]i001:"
     while executing
 "[42F4:428C][2025-02-26T20:53:44]i001: Burn v3.14.1.8722, Windows v10.0 (Build 19045: Service Pack 0), path: C:\Windows\Temp\{A2B93E20-2CA0-40B8-882F-4..."
     (file "C:/Users/Caio" line 1)
-INFO: [Common 17-206] Exiting Webtalk at Mon Oct 20 21:14:06 2025...
+INFO: [Common 17-206] Exiting Webtalk at Mon Oct 20 21:51:14 2025...

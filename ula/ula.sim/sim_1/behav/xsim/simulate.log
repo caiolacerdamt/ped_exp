@@ -1,0 +1,6 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Note: Iniciando simulação do Testbench da ULA...
+Time: 0 ps  Iteration: 0  Process: /tb_ula_vhdl3/stim_proc  File: C:/Users/Caio Lacerda/Desktop/exp_vivado/ula/ula.srcs/sim_1/new/tb_ula.vhd
+Note: Simulação concluída com sucesso (se nenhuma falha foi reportada).
+Time: 400 ns  Iteration: 0  Process: /tb_ula_vhdl3/stim_proc  File: C:/Users/Caio Lacerda/Desktop/exp_vivado/ula/ula.srcs/sim_1/new/tb_ula.vhd
